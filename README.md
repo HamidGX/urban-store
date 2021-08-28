@@ -35,7 +35,7 @@ Enjoy!
   <br>
   <img src="https://i.imgur.com/9Liy2uI.jpg">
   <br>
-  Table (iPad):
+  Tablet (iPad):
   <br>
   <img src="https://i.imgur.com/shH0XdV.jpg">
   <br>
