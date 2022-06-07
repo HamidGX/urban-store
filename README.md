@@ -42,6 +42,7 @@ Enjoy!
   Desktop:
   <img src="https://i.imgur.com/4BHmGNp.jpg">
 </div>
+
 ### Construido con 🛠️
 
 _Para crear este proyecto se utilizo:_
